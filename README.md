@@ -1,6 +1,6 @@
 [TR]
 
-### Görev Kapsülleme:
+### Kapsülleme Görevi:
 
 “Password” adında, “password” ve “username” adlı niteliklere sahip kapsüllenmiş bir sınıf oluşturun. Getters ve setters ile birlikte aşağıdaki koşulları ekleyin:
 
